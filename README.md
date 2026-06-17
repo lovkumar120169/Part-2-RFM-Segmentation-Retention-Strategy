@@ -158,3 +158,14 @@ Customers with low engagement, old purchases, or declining relationships with th
 # Repository Structure
 
 The repository contains the following files:
+
+```text
+D2C-RFM-Retention-Strategy/
+│
+├── rfm_segmentation.ipynb        # Complete segmentation notebook
+├── segments.csv                  # Final customer segmentation output
+├── retention_strategy.md         # Segment retention recommendations
+├── manual_review_cases.md        # Complex customer review cases
+├── README.md                     # Project documentation
+└── requirements.txt              # Python dependencies
+```
